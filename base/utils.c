@@ -20,7 +20,7 @@
  *
  *****************************************************************************/
 
-#include "../include/config.h"
+#include "../include/config.h.in"
 #include "../include/common.h"
 #include "../include/objects.h"
 #include "../include/statusdata.h"
